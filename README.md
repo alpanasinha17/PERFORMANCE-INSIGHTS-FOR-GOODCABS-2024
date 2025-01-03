@@ -27,3 +27,28 @@ Fields:
 
 ![image](https://github.com/user-attachments/assets/d7c05778-0a55-4070-b1df-da66faa417ed)
 
+Business Request -2: Monthly City-Level Trips Target Performance Report
+
+Generate a report that evaluates the target performance for trips at the monthly and city level. For each city and month, compare the actual total trips with the target trips and categorise the performance as follows:
+
+• If actual trips are greater than target trips, mark it as "Above Target".
+• If actual trips are less than or equal to target trips, mark it as "Below Target".
+
+Additionally, calculate the % difference between actual and target trips to quantify the performance gap.
+
+Fields:
+
+• City_name
+• month name
+• actual_trips
+• target_trips
+• performance_status
+• % difference
+![image](https://github.com/user-attachments/assets/4122c6d2-b0e6-4c5f-b8e9-7fae38f5709b)
+![image](https://github.com/user-attachments/assets/3aee0277-af98-4e7d-b8af-fcef3b16654b)
+![image](https://github.com/user-attachments/assets/650a72ce-4a13-46bc-8a00-287a63e8f86f)
+
+
+
+
+
