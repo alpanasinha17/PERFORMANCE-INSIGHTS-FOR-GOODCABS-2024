@@ -48,6 +48,7 @@ Fields:
 • target_trips
 • performance_status
 • % difference
+
 ![image](https://github.com/user-attachments/assets/4122c6d2-b0e6-4c5f-b8e9-7fae38f5709b)
 ![image](https://github.com/user-attachments/assets/3aee0277-af98-4e7d-b8af-fcef3b16654b)
 ![image](https://github.com/user-attachments/assets/650a72ce-4a13-46bc-8a00-287a63e8f86f)
@@ -74,6 +75,7 @@ Fields
 • city_name
 • total_new_passengers
 • city_category ("Top 3" or "Bottom 3")
+
 ![image](https://github.com/user-attachments/assets/baf19326-193d-46b5-8192-b6d119a480b1)
 
 *Business Request - 5: Identify Month with Highest Revenue for Each City*
@@ -86,6 +88,7 @@ Fields
 • highest_revenue_month
 • revenue
 • percentage_contribution (%)
+
 ![image](https://github.com/user-attachments/assets/19bdaec8-4826-4f01-8979-94895920e5a6)
 
 *Business Request - 6: Repeat Passenger Rate Analysis Generate a report that calculates two metrics:*
